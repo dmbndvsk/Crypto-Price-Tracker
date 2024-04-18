@@ -1,0 +1,15 @@
+# Ignoring files and directories created by Python
+__pycache__/
+*.pyc
+
+# Ignoring files and directories created by Python virtual environments
+venv/
+env/
+virtualenv/
+
+# Ignoring local settings and configurations of the development environment
+.idea/
+.vscode/
+
+# Ignoring files with confidential information
+.env
